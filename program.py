@@ -8,4 +8,4 @@ def fib(i):
     return(fib(i-1)+fib(i-2))
 
 for i in range(1,10):
-    print(fib(1))
+    print(fib(i))
